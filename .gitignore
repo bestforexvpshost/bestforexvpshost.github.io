@@ -1,0 +1,12 @@
+# 忽略所有文件和文件夹
+*
+
+# 不忽略 .gitignore 文件本身
+!.gitignore
+
+!.github/
+!.github/**
+!public/
+!public/**
+!LICENSE
+!README.md
